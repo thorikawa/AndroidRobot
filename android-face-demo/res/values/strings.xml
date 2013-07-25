@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">FaceTest</string>
+<string name="about_str">FaceRecognition Test</string>
+<string name="about_title">About FooBar</string>
+<string name="about_menu">About</string>
+<string name="ok">O.K.</string>
+<string name="Reboot">再起動</string>
+</resources>

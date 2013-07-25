@@ -1,0 +1,16 @@
+1 ../train/akita.jpg
+2 ../train/hosomi.jpg
+3 ../train/igari.jpg
+4 ../train/ito.jpg
+5 ../train/kei.jpg
+6 ../train/koga.jpg
+7 ../train/namikawa.jpg
+8 ../train/pan.jpg
+8 ../train/pan2.jpg
+8 ../train/pan3.jpg
+9 ../train/sato.jpg
+9 ../train/sato2.jpg
+10 ../train/takahiro.jpg
+10 ../train/takahiro3.jpg
+10 ../train/takahiro4.jpg
+11 ../train/yamada.jpg

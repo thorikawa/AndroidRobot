@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="fill_parent" android:layout_height="fill_parent" android:background="#000000"
+    android:orientation="vertical" android:gravity="center_horizontal">
+    <TextView android:id="@+id/Title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textStyle="bold" android:textSize="20sp" android:textColor="#FFFFFF" />
+    <TextView android:id="@+id/SubTitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textSize="12sp" android:textColor="#FFFFFF" />
+    <Gallery android:id="@+id/Gallery" android:layout_width="fill_parent" android:layout_height="100dip" />
+    <Button android:id="@+id/AddButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="写真を追加" />
+</LinearLayout>
